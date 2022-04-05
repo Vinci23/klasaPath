@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\klasaPath\bin\Debug\klasaPath.exe.config
+C:\Users\ucenik\source\repos\klasaPath\bin\Debug\klasaPath.exe
+C:\Users\ucenik\source\repos\klasaPath\bin\Debug\klasaPath.pdb
+C:\Users\ucenik\source\repos\klasaPath\obj\Debug\klasaPath.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\klasaPath\obj\Debug\klasaPath.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\klasaPath\obj\Debug\klasaPath.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\klasaPath\obj\Debug\klasaPath.exe
+C:\Users\ucenik\source\repos\klasaPath\obj\Debug\klasaPath.pdb
